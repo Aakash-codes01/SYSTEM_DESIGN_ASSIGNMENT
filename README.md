@@ -18,9 +18,9 @@
 
 - Option '3' allows the user to update the weather data by providing the temperature, humidity, and pressure. The weather station's update_weather_data method is called to update the data.
 
--Option '4' allows the user to deregister a already defined user
+- Option '4' allows the user to deregister a already defined user
 
--Option '5' allows user to exit
+- Option '5' allows user to exit
 
  ## Question 2
 
